@@ -2,11 +2,13 @@
     color: red
 
 }
-
+html {
+    scroll-behavior: smooth;
+}
 .paris {
     background-color: beige
 }
 
-#pinkLondon{
+#london-heading{
     background-color: pink
 }
